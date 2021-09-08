@@ -11,6 +11,8 @@ Realizzazione di una regressione lineare per predire le vendite per ogni gruppo 
 
 Svolgimento di un tipo di predizione più complessa basata su Times Series, dove ho utilizzato l'algoritmo Arima per effettuare il forecast.  
 
+Nel PDF del progetto si puo vedere tutti gli steps.
+
 
 ## Status
 
@@ -18,7 +20,7 @@ Svolgimento di un tipo di predizione più complessa basata su Times Series, dove
 Completato
 ```
 
-## Installation
+## Installazione
 
 Ambiente di svillupo Jupyter Notebook, Python e Anaconda.
 
