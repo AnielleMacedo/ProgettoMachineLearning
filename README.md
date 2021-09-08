@@ -15,7 +15,7 @@ Svolgimento di un tipo di predizione più complessa basata su Times Series, dove
 ## Status
 
 ```
-Completed
+Completato
 ```
 
 ## Installation
